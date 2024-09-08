@@ -1,16 +1,22 @@
-# datasqlexample
+# Flutter SQLite CRUD Operations with Images
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This Flutter project demonstrates basic CRUD (Create, Read, Update, Delete) operations using SQLite. It provides a simple interface to perform these operations and visualize the images stored in the local database.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Create**: Add new images to the database.
+- **Read**: View stored images.
+- **Update**: Modify existing images.
+- **Delete**: Remove images from the database.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK installed.
+- Dart SDK installed.
+- Basic knowledge of Flutter and Dart.
+- SQLite and `sqflite` package knowledge.
+
+
+
